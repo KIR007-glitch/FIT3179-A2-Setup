@@ -1,23 +1,23 @@
-index,Track,Points Gap,surname
-0,Bahrain,-7,Hamilton
-20,Emilia Romagna,-1,Hamilton
-40,Portugal,-8,Hamilton
-60,Spain,-14,Hamilton
-80,Monaco,4,Verstappen
-100,Azerbaijan,4,Verstappen
-120,France,12,Verstappen
-140,Styria,18,Verstappen
-160,Austria,32,Verstappen
-180,Great Britain,8,Verstappen
-200,Hungary,-8,Hamilton
-220,Belgium,-3,Hamilton
-240,Netherlands,3,Verstappen
-260,Italy,5,Verstappen
-280,Russia,-2,Hamilton
-300,Turkey,6,Verstappen
-320,United States,12,Verstappen
-340,Mexico,19,Verstappen
-360,Brazil,14,Verstappen
-380,Qatar,8,Verstappen
-400,Saudi Arabia,0,Verstappen
-420,Abu Dhabi,8,Verstappen
+index,Track,Points Gap,surname,driverId
+0,Bahrain,-7,Hamilton,44
+20,Emilia Romagna,-1,Hamilton,44
+40,Portugal,-8,Hamilton,44
+60,Spain,-14,Hamilton,44
+80,Monaco,4,Verstappen,33
+100,Azerbaijan,4,Verstappen,33
+120,France,12,Verstappen,33
+140,Styria,18,Verstappen,33
+160,Austria,32,Verstappen,33
+180,Great Britain,8,Verstappen,33
+200,Hungary,-8,Hamilton,44
+220,Belgium,-3,Hamilton,44
+240,Netherlands,3,Verstappen,33
+260,Italy,5,Verstappen,33
+280,Russia,-2,Hamilton,44
+300,Turkey,6,Verstappen,33
+320,United States,12,Verstappen,33
+340,Mexico,19,Verstappen,33
+360,Brazil,14,Verstappen,33
+380,Qatar,8,Verstappen,33
+400,Saudi Arabia,0,Verstappen,33
+420,Abu Dhabi,8,Verstappen,33
